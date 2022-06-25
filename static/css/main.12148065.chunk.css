@@ -1,0 +1,2 @@
+*{background-color:#659dbd}.game-area{position:relative;margin:15vh auto auto;width:600px;height:600px;border:2px solid #000}.snake-dot{background-color:#0bf30b;z-index:2}.snake-dot,.snake-food{position:absolute;width:2%;height:2%;border:1px solid #fff;border-radius:20%}.snake-food{background:red;z-index:1}.img{border-radius:100%;width:7vh;height:7vh}.footicon{margin-left:3rem;border-radius:40%;color:#fff}.header{color:#fff;font-size:2rem;font-weight:bolder}
+/*# sourceMappingURL=main.12148065.chunk.css.map */
